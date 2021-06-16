@@ -1,0 +1,20 @@
+{
+    "alunos":[
+                    { 
+                        "id":1,
+                        "nome":"Juju",
+                        "sobrenome": "Figs",
+                        "email":"jujufigs@gmail.com",
+                        "ra": "2244976290",
+                        "idade": "30"    
+                    },
+                    { 
+                        "id":2,
+                        "nome":"Lucas",
+                        "sobrenome": "Jeronimo",
+                        "email":"luluh.jeronimo@gmail.com",
+                        "ra": "09876543",
+                        "idade": "23"    
+                    }
+    ]
+}
